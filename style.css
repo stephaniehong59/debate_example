@@ -1,3 +1,36 @@
-img{
-	max-width: 100px
+figure{
+	max-width: 600px
+}
+
+img{ max-width: 100%
+ }
+
+ /* Make all text Georgia, serif */
+body {
+    font-family: Georgia, serif;
+}
+
+/* Make the headline all uppercase */
+h1 {
+    text-transform: uppercase;
+}
+
+/* Make the caption gray */
+figcaption {
+    color: gray;
+}
+
+/* Make the footer gray */
+h6 {
+    color: gray;
+}
+
+/* Make Democrat names blue */
+.democrat {
+    color: blue;
+}
+
+/* Make Republican names red */
+.republican {
+    color: red;
 }
